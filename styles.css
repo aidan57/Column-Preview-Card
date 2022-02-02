@@ -108,7 +108,7 @@ button:hover {
 	.container {
 		flex-direction: column;
 		align-items: center;
-		margin-top: 6rem;
+		margin-top: 2rem;
 	}
 
 	.sedans,
@@ -133,6 +133,6 @@ button:hover {
 	}
 
 	.attribution {
-		margin-bottom: 5rem;
+		margin-bottom: 4rem;
 	}
 }
